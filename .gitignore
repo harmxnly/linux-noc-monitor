@@ -1,0 +1,10 @@
+# Secrets & Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local Logs & OS Junk
+*.log
+.DS_Store
